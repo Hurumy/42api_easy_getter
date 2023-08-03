@@ -5,13 +5,19 @@ just run the shellscripts
 つかいかた
 
 実行します　UIDとシークレットはIntraのAPI画面から持ってくる
-~~~ sh gettoken.sh UID SECRET ~~~
+~
+sh gettoken.sh UID SECRET
+~
 
 実行します
-~~~sh watchbh.sh イントラ名~~~
+~
+sh watchbh.sh イントラ名
+~
 
 できます
-~~~/bhlog/イントラ名/イントラ名_タイムスタンプ.json~~~
+~
+/bhlog/イントラ名/イントラ名_タイムスタンプ.json
+~
 
 雑なので間違うと変なファイルがたくさんできます
 
