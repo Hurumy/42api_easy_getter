@@ -2,7 +2,9 @@
 just run the shellscripts
 
 なまけものが極まって、APIをちょっと触ってみたいけど、そのために何かを用意するのも面倒なあなたに
+
 ターミナルだけでそこそこ目にやさしくAPIで引いてきた情報を確認できます
+
 https://api.intra.42.fr/apidoc
 
 ## つかいかた
